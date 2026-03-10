@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color: var(--secondary);
+    background: linear-gradient(120deg, #ff6ec7, #2ecc71);
     font-family: 'Segoe UI', Arial, sans-serif;
     display: flex;
     justify-content: center;
