@@ -7,7 +7,7 @@
 }
 
 body {
-    background:linear-gradient(120deg, #6e6eff, #347ce8');
+    background: linear-gradient(120deg, #6e6eff, #347ce8);
     font-family: 'Segoe UI', Verdana, Geneva, Tahoma, sans-serif;
     display: flex;
     justify-content: center;
